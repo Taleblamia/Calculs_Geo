@@ -1,0 +1,7 @@
+package umons.ac.be;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class SurfaceTest {
+
+}
